@@ -1,11 +1,13 @@
 ## NLP Portfolio
+<img src="images/NLP-txt.png?raw=true"/>
 
 ---
 
 ### NLP Text Classification 
 
-[Final Report](/pdf/NLP-Capstone-Final Report.pdf)
-<img src="images/NLP-txt.png?raw=true"/>
+It is an imperative need for certain industries around the globe to comprehend why employees still suffer injuries/accidents in their manufacturing plants. In this project, a ‘Text Classification model’ was designed that can help professionals highlight the safety risk in industrial plants. 
+
+[Final Project Report](/pdf/NLP-Capstone-Final Report.pdf)
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/Twitter-white?logo=Twitter)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
 
