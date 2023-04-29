@@ -1,5 +1,5 @@
 # NLP Portfolio
-<img src="images/NLP.jpeg?raw=true"/>
+<!-- <img src="images/NLP.jpeg?raw=true"/> -->
 
 ---
 
