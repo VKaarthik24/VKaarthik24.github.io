@@ -1,5 +1,5 @@
 ## NLP Portfolio
-<img src="images/NLP-txt.png?raw=true"/>
+<img src="images/NLP.jpeg.png?raw=true"/>
 
 ---
 
