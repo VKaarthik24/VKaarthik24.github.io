@@ -17,6 +17,8 @@ View code on Colab
 
 ### Sarcasm Detection - using Bidirectional LSTMs
 
+Sarcasm detection is the automated task of determining whether a piece of text contains sarcastic content. In this project, a ‘Sequential NLP Classifier’ was built to detect whether a sentence is sarcastic or not.
+
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
@@ -28,6 +30,8 @@ View code on Colab
 
 ### Sentiment Analysis - using LSTMs
 
+Sentiment analysis is an approach to natural language processing (NLP) that identifies the emotional tone behind a body of text. This is a popular way for organizations to determine and categorize opinions about a product, service or idea. In this project, a ‘Text Classification model’ was built that analyzes the customer’s sentiments based on their reviews in the IMDB database. 
+
 [Project 3 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
@@ -37,17 +41,3 @@ View code on Colab
 
 ---
 
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
-
-
-
-<!-- Remove above link if you don't want to attibute -->
