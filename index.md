@@ -1,4 +1,4 @@
-## NLP Portfolio
+# NLP Portfolio
 <img src="images/NLP.jpeg.png?raw=true"/>
 
 ---
