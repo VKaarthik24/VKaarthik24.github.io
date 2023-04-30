@@ -7,11 +7,12 @@
 
 It is an imperative need for certain industries around the globe to comprehend why employees still suffer injuries/accidents in their manufacturing plants. In this project, a ‘Text Classification model’ was designed that can help professionals highlight the safety risk in industrial plants. 
 
-[![](https://img.shields.io/badge/Python-slategray?style=plastic&logo=Python&labelColor=white)](#) [![](https://img.shields.io/badge/spaCy-slategray?style=plastic&logo=spacy&logoColor=informational&labelColor=white)](#) ![Keras](https://img.shields.io/badge/Keras-slategray?style=plastic&logo=Keras&logoColor=%23D00000&TextColor=%23D00000&labelColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-slategray?style=plastic&logo=TensorFlow&logoColor=%23FF6F00&labelColor=white) ![Gradio](https://img.shields.io/badge/Gradio%20UI-slategray?style=plastic) ![](https://img.shields.io/badge/NLPAug-slategrey?style=plastic) ![](https://img.shields.io/badge/Encoder-Decoder-slategray?style=plastic&labelColor=white) ![](https://img.shields.io/badge/BERT-slategray?style=plastic) ![](https://img.shields.io/badge/GloVe-slategray?style=plastic)
+[![](https://img.shields.io/badge/Python-informational?style=plastic&logo=Python&labelColor=white)](#) [![](https://img.shields.io/badge/spaCy-informational?style=plastic&logo=spacy&logoColor=informational&labelColor=white)](#) ![Keras](https://img.shields.io/badge/Keras-informational?style=plastic&logo=Keras&logoColor=%23D00000&labelColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-informational?style=plastic&logo=TensorFlow&logoColor=%23FF6F00&labelColor=white) ![Gradio](https://img.shields.io/badge/Gradio%20UI-informational?style=plastic) ![](https://img.shields.io/badge/NLPAug-informational?style=plastic) ![](https://img.shields.io/badge/Encoder-Decoder-informational?style=plastic&labelColor=white) ![](https://img.shields.io/badge/BERT-informational?style=plastic) ![](https://img.shields.io/badge/GloVe-informational?style=plastic)
 
 <a target="_blank" href="https://colab.research.google.com/github/VandanaKaarthik/NLP-Text-Classification/blob/main/NLP_Capstone.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open Code In Colab"/>
 </a> 
+
 [Project Report](/pdf/NLP-Capstone-Final Report.pdf)
 
 ---
