@@ -9,12 +9,11 @@ It is an imperative need for certain industries around the globe to comprehend w
 
 [Project Report](/pdf/NLP-Capstone-Final Report.pdf)
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/Twitter-white?logo=Twitter)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
-
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+[![](https://img.shields.io/badge/Python-white?style=plastic&logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?style=plastic&logo=Jupyter)](#)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white)
 
 <a target="_blank" href="https://colab.research.google.com/github/VandanaKaarthik/NLP-Text-Classification/blob/main/NLP_Capstone.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open Code In Colab"/>
 </a>
 
 ---
