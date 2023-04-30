@@ -19,7 +19,7 @@ View code on Colab
 
 Sarcasm detection is the automated task of determining whether a piece of text contains sarcastic content. In this project, a ‘Sequential NLP Classifier’ was built to detect whether a sentence is sarcastic or not.
 
-[Project 1 Title](/sample_page)
+[Project 1 Title](/NLP_Capstone_Group4.ipynb)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/Twitter-white?logo=Twitter)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
