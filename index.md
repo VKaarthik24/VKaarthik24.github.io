@@ -24,7 +24,7 @@ It is an imperative need for certain industries around the globe to comprehend w
 
 ### Sarcasm Detection
 
-Sarcasm detection is the automated task of determining whether a piece of text contains sarcastic content. In this project, a ‘Sequential NLP Classifier’ using Bidirectional LSTMs was built to detect whether a sentence is sarcastic or not.
+Sarcasm detection is the automated task of determining whether a piece of text contains sarcastic content. In this project, a 'Sequential NLP Classifier' using 'Bidirectional LSTMs' was built to detect whether a sentence is sarcastic or not.
 
 <img src="images/LSTM-CNN.png?raw=true"/>
 
@@ -39,7 +39,7 @@ Sarcasm detection is the automated task of determining whether a piece of text c
 
 ### Sentiment Analysis
 
-Sentiment analysis is an approach to natural language processing (NLP) that identifies the emotional tone behind a body of text. This is a popular way for organizations to determine and categorize opinions about a product, service or idea. In this project, a ‘Text Classification model’ using LSTMs was built that analyzes the customer’s sentiments based on their reviews in the IMDB database. 
+Sentiment analysis is an approach to natural language processing (NLP) that identifies the emotional tone behind a body of text. This is a popular way for organizations to determine and categorize opinions about a product, service or idea. In this project, a ‘Text Classification model’ using 'LSTMs' was built that analyzes the customer’s sentiments based on their reviews in the IMDB database. 
 
 
 [![](https://img.shields.io/badge/Python-lightslategray?style=plastic&logo=Python&labelColor=white)] ![Keras](https://img.shields.io/badge/Keras-lightslategray?style=plastic&logo=Keras&logoColor=%23D00000&TextColor=%23D00000&labelColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-lightslategray?style=plastic&logo=scikit-learn&logoColor=%23F7931E.svg&labelColor=white) ![](https://img.shields.io/badge/Word%20Embeddings-lightslategray?style=plastic) ![](https://img.shields.io/badge/LSTMs-lightslategray?style=plastic) ![NumPy](https://img.shields.io/badge/numpy-lightslategray?style=plastic&logo=numpy&logoColor=informational&labelColor=white) ![Pandas](https://img.shields.io/badge/pandas-lightslategray?style=plastic&logo=pandas&logoColor=483D8B&labelColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-lightslategray?style=plastic&logo=Matplotlib&logoColor=008080)
