@@ -16,7 +16,7 @@ It is an imperative need for certain industries around the globe to comprehend w
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open Code In Colab"/>
 </a> 
 
-[Project Report](/pdf/NLP-Capstone-Final Report.pdf)
+[Project Report](/pdf/NLP-Capstone-Project Report.pdf)
 
 ---
 
