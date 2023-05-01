@@ -6,6 +6,9 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br>
   working for top companies in the Automotive, Telecommunication and Printing domain 
   <br><br>
+  <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="vandanakaarthik" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/vandanakaarthik?trk=profile-badge">Vandana Kaarthik</a></div>
+              
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   
 # remote_theme: pages-themes/minimal@v0.2.0
