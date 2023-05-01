@@ -32,7 +32,7 @@ Sarcasm detection is the automated task of determining whether a piece of text c
 
 
 <a target="_blank" href="https://colab.research.google.com/github/VandanaKaarthik/Sarcasm-Detection/blob/main/SentimentAnalysis_SarcasmDetection.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open Code In Colab"/>
 </a> 
 
 ---
@@ -47,7 +47,7 @@ Sentiment analysis is an approach to natural language processing (NLP) that iden
 
 
 <a target="_blank" href="https://colab.research.google.com/github/VandanaKaarthik/Sentiment-Analysis/blob/main/SentimentAnalysis_SarcasmDetection.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open Code In Colab"/>
 </a>
 
 ---
