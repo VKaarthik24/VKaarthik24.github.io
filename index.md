@@ -5,7 +5,35 @@
 
 Uses LangChain to pass transcripts from Youtube videos to OpenAI LLMs and summarises them.
 
+![OpenAI](https://img.shields.io/badge/OpenAI-lightslategray?style=plastic&logo=OpenAI&logoColor=412991&labelColor=white) ![](https://img.shields.io/badge/LangChain-44A833?style=plastic)
+
+<a target="_blank" href="https://colab.research.google.com/drive/1Mh3IMYBoVJ90vzJBJDrC9F6xqFduktde#scrollTo=sQelX2Z8Lm1G">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a> 
+
+---
+
+### Book Question and Answering System 
+
+Loads a pdf book, splits it up into documents using LangChain, gets vectors for these documents using OpenAI Embeddings, stores these vectors in an external Vector Store - Pinecone - and queries the book using OpenAI.
+
 ![OpenAI](https://img.shields.io/badge/OpenAI-lightslategray?style=plastic&logo=OpenAI&logoColor=412991&labelColor=white) ![](https://img.shields.io/badge/LangChain-44A833?style=plastic) ![](https://img.shields.io/badge/PINECONE-AA344D?style=plastic)
+
+<a target="_blank" href="https://colab.research.google.com/drive/1My0la-GXktUhhwf1v01ANexdfXwj4DYg#scrollTo=mfzDg2zj8WU7">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a> 
+
+---
+
+### Topic Modeling 
+
+Extracts topics from video/audio using LLMs.
+
+![OpenAI](https://img.shields.io/badge/OpenAI-lightslategray?style=plastic&logo=OpenAI&logoColor=412991&labelColor=white) ![](https://img.shields.io/badge/LangChain-44A833?style=plastic)
+
+<a target="_blank" href="https://colab.research.google.com/drive/1N16hekNA4cpy9FMSdWKfAPqNvtr96xzt#scrollTo=OFkWV0fqCSRO">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a> 
 
 ---
 
