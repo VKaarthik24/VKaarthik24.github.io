@@ -5,9 +5,7 @@
 
 Uses LangChain to pass transcripts from Youtube videos to OpenAI LLMs and summarises them.
 
-![OpenAI](https://img.shields.io/badge/OpenAI-lightslategray?style=plastic&logo=OpenAI&logoColor=412991&labelColor=white) ![langchain](https://img.shields.io/badge/OpenAI-lightslategray?style=plastic&logo=OpenAI&logoColor=412991&labelColor=white) ![](https://img.shields.io/badge/LangChain-AA344D?style=plastic) ![](https://img.shields.io/badge/LangChain-AA344D?style=plastic)
-
-Tools Used: LangChain, OpenAI gp
+![OpenAI](https://img.shields.io/badge/OpenAI-lightslategray?style=plastic&logo=OpenAI&logoColor=412991&labelColor=white) ![](https://img.shields.io/badge/LangChain-44A833?style=plastic) ![](https://img.shields.io/badge/PINECONE-AA344D?style=plastic)
 
 ---
 
