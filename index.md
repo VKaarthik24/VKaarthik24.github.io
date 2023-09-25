@@ -1,6 +1,16 @@
 ## NLP Portfolio
 
 ---
+### Youtube Summariser 
+
+Uses LangChain to pass transcripts from Youtube videos to OpenAI LLMs and summarises them.
+
+![OpenAI](https://a11ybadges.com/badge?logo=openai)
+![OpenAI](https://img.shields.io/badge/OpenAI-lightslategray?style=plastic&logo=OpenAI&logoColor=483D8B&labelColor=white)
+
+Tools Used: LangChain, OpenAI gp
+
+---
 
 ### NLP Text Classification 
 
